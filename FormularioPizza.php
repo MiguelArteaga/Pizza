@@ -9,7 +9,7 @@
 	<?php
 	$contador=5;
 	echo "Ingredientes: <br><br>";
-	echo "<input type='checkbox' name='massa' value='massa'/>";
+	echo "<input type='checkbox' name='massa' value='massa' />";
 	echo "Massa<br>";
 	echo "<input type='checkbox' name='oregan' value='oregan'/>";
 	echo "Oregan<br>";
@@ -46,9 +46,6 @@
 	}
 	else{
 		echo "La Massa y la Pizza  son obligatorias!";
-		if (!empty($_POST['massa'])) {
-			echo'checked';
-		}
 
 	
 
