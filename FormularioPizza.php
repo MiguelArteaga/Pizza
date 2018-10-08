@@ -47,7 +47,7 @@
 	else{
 		echo "La Massa y la Pizza  son obligatorias!";
 
-	
+		echo"massa.checked";
 
 	}
 
