@@ -18,7 +18,7 @@
 	echo "<input type='checkbox' name='piña' value='piña'/>";
 	echo "Piña<br>";
 	echo "<input type='checkbox' name='champiñones' value='champiñones'/>";
-	echo "Bacon<br>";
+	echo "Champiñones<br>";
 	echo "<input type='checkbox' name='tomate' value='tomate'/>";
 	echo "Tomate<br>";
 	echo "<input type='checkbox' name='olivas' value='olivas'/>";
